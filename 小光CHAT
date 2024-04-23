@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My ChatGPT Website</title>
+</head>
+<body>
+    <h1>Welcome to my ChatGPT Website</h1>
+    <div id="chat-window"></div>
+    <script src="chatGPT-api.js"></script>
+    <script>
+        // 在这里写入ChatGPT API的密钥和其它配置信息
+    </script>
+</body>
